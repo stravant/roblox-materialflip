@@ -1,0 +1,13 @@
+{
+	"name": "MaterialFlip v1.1.0",
+	"tree": {
+		"$className": "Folder",
+		"Src": {
+			"$path": "src"
+		},
+		"Packages": {
+			"$path": "Packages"
+		},
+		"$path": "extra"
+	}
+}
